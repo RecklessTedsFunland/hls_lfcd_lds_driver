@@ -30,3 +30,8 @@
 
 # Users
 *.user
+
+*.pyc
+._*
+.DS_Store
+
